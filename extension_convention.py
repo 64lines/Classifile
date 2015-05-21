@@ -3,7 +3,7 @@ DICT_EXT_CONV = {
     "part": "Partial Download",
     "doc": "Document",    
     "xls": "Worksheet",
-    "docx": " Microsoft Office Open XML Format Document",
+    "docx": "Microsoft Office Open XML Format Document",
     "xlsx": "Microsoft Office Open XML Format Spreadsheet",
     "pdf": "Portable Document Format",
     "jpg": "JPEG or JIFF Image",
