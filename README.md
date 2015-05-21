@@ -1,6 +1,6 @@
 # Classifile
 
-Simple program to classify files into directories by their extension only using an especified path.
+Simple program to classify files into directories by their extension only using an specified path.
 
 ## Usage
 
